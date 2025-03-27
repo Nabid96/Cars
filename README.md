@@ -4,9 +4,7 @@
   <body>
     <div class='car-dealer'>
       <h1>Car Dealer</h1>
-    </div>
-
-    <div class='brands'>
+    
         <a href="#ford" class="brand-link">Ford</a>
         <a href="#volkswagen" class="brand-link">Volkswagon</a>
         <a href="#bmw" class="brand-link">BMW</a>
