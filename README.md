@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="styles.css">
   </head>
 
+  <body>
     <div class='car-dealer'>
       <h1>Car Dealer</h1>
     </div>
@@ -69,5 +70,8 @@
       <p>Phone: 07946020609</p>
       <p>Email: nabid.anjum@gmail.com</p>
     </footer>
+  </body>
 
 </html>
+
+
